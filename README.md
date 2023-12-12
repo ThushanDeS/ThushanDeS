@@ -1,4 +1,4 @@
-<div style="background-image: url('path/to/your/image.jpg'); background-size: cover; background-position: center; height: 300px; display: flex; justify-content: center; align-items: center; text-align: center; color: white; font-family: Arial, sans-serif; border: 5px solid #ffffff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); border-radius: 8px;">
+<div style="background-image: url('https://images.app.goo.gl/1WrGznxY2RRdKkQi9'); background-size: cover; background-position: center; height: 300px; display: flex; justify-content: center; align-items: center; text-align: center; color: white; font-family: Arial, sans-serif; border: 5px solid #ffffff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); border-radius: 8px;">
   <div style="background-color: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 8px; display: flex; flex-direction: column; align-items: center;">
     <h1 style="font-size: 2.5em; margin-bottom: 10px;">Thushan De Silva</h1>
     <p style="font-size: 1.2em; margin-bottom: 5px;">Undergraduate @SLIIT</p>
