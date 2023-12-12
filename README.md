@@ -1,9 +1,9 @@
-![Banner Image](https://example.com/your-image.jpg)
+![Banner Image](https://images.app.goo.gl/LAucbrPYCX4y2TJT9)
 
 ### Thushan De Silva
 Undergraduate @SLIIT
 
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-blue?style=flat&logo=github)](https://github.com/YourUsername)
+[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-blue?style=flat&logo=github)](https://github.com/ThushanDeS)
 
 
 <h1 align="center">Hi 👋, I'm Thushan De Silva</h1>
