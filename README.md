@@ -1,5 +1,4 @@
-<img src="https://github.com/ThushanDeS/ThushanDeS/assets/153522711/c0c9fc4b-a42a-4301-bf0a-bfbe16364417" alt="Local Image" width="1000">
-
+<img src="https://github.com/ThushanDeS/ThushanDeS/assets/153522711/725d1b8e-8937-4d92-afaa-f8505a48f965" alt="Local Image" width="1000">
 
 <h1 align="center">Hi 👋, I'm Thushan De Silva</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
