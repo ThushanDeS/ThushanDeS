@@ -1,4 +1,4 @@
-<img src="![ezgif com-video-to-gif](https://github.com/ThushanDeS/ThushanDeS/assets/153522711/63ee11b4-0702-42ea-ae1f-0b55d5e9b262)" alt="Image" width="1000" height="400">
+<img src="(https://github.com/ThushanDeS/ThushanDeS/assets/153522711/63ee11b4-0702-42ea-ae1f-0b55d5e9b262)" alt="Image" width="1000" height="400">
 <h1 align="center">Hi 👋, I'm Thushan De Silva</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
