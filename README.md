@@ -1,10 +1,13 @@
-![Banner Image](https://images.app.goo.gl/eVCSEFRMGFnJoarD7)
-
-### Thushan De Silva
-Undergraduate @SLIIT
-
-[![GitHub](https://img.shields.io/badge/GitHub-YourUsername-blue?style=flat&logo=github)](https://github.com/ThushanDeS)
-
+<div style="background-image: url('https://images.app.goo.gl/eVCSEFRMGFnJoarD7'); background-size: cover; background-position: center; height: 150px; display: flex; justify-content: center; align-items: center; text-align: center; color: white; font-family: Arial, sans-serif; border: 5px solid #ffffff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); border-radius: 8px;">
+  <div style="background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 8px; display: flex; align-items: center;">
+    <h1 style="font-size: 1.5em; margin-right: 20px;">Thushan De Silva</h1>
+    <p style="font-size: 1em; margin-right: 20px;">Undergraduate @SLIIT</p>
+    <a href="https://github.com/ThushanDeS" target="_blank" style="text-decoration: none; color: white; display: flex; align-items: center;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Mark" style="width: 20px; margin-right: 5px;">
+      <span style="font-size: 1em;">ThushanDeS</span>
+    </a>
+  </div>
+</div>
 
 <h1 align="center">Hi 👋, I'm Thushan De Silva</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
