@@ -1,79 +1,15 @@
-<html lang="en">
-<head>
-  <style>
-    /* Resetting default margin and padding for elements */
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-
-    /* Styling the cover page container */
-    .cover-page {
-      background-image: url('path/to/your/image.jpg'); /* Add your cover image path */
-      background-size: cover;
-      background-position: center;
-      height: 100vh; /* Adjust as needed */
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      text-align: center;
-      color: white;
-      font-family: Arial, sans-serif;
-      border: 5px solid #ffffff; /* Border properties: adjust width and color */
-      box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Optional shadow effect */
-    }
-
-    /* Styling the details section */
-    .details {
-      background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background for details */
-      padding: 20px;
-      border-radius: 8px;
-    }
-
-    .details h1 {
-      font-size: 2.5em;
-      margin-bottom: 10px;
-    }
-
-    .details p {
-      font-size: 1.2em;
-      margin-bottom: 5px;
-    }
-
-    .github-mark {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      margin-top: 15px;
-    }
-
-    .github-mark img {
-      width: 30px; /* Adjust size as needed */
-      margin-right: 5px;
-    }
-  </style>
-  <meta charset="UTF-8">
-  <title>Cover Page</title>
-  <link rel="stylesheet" href="styles.css"> <!-- Link to your CSS file -->
-</head>
-<body>
-
-<div class="cover-page">
-  <div class="details">
-    <h1>Thushan De Silva</h1>
-    <p>Undergraduate @SLIIT</p>
-    <div class="github-mark">
-      <a href="https://github.com/YourUsername" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Mark">
+<div style="background-image: url('path/to/your/image.jpg'); background-size: cover; background-position: center; height: 300px; display: flex; justify-content: center; align-items: center; text-align: center; color: white; font-family: Arial, sans-serif; border: 5px solid #ffffff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); border-radius: 8px;">
+  <div style="background-color: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 8px;">
+    <h1 style="font-size: 2.5em; margin-bottom: 10px;">Thushan De Silva</h1>
+    <p style="font-size: 1.2em; margin-bottom: 5px;">Undergraduate @SLIIT</p>
+    <div style="display: flex; align-items: center; justify-content: center; margin-top: 15px;">
+      <a href="https://github.com/YourUsername" target="_blank" style="text-decoration: none; color: white; display: flex; align-items: center;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub Mark" style="width: 30px; margin-right: 5px;">
+        <span style="font-size: 1.2em;">YourUsername</span> <!-- Replace YourUsername with your actual GitHub username -->
       </a>
-      <span>ThushanDeS</span> <!-- Replace YourUsername with your actual GitHub username -->
     </div>
   </div>
 </div>
-
-</body>
-</html>
 <h1 align="center">Hi 👋, I'm Thushan De Silva</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
