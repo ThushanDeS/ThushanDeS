@@ -1,4 +1,4 @@
-![Banner Image](https://images.app.goo.gl/LAucbrPYCX4y2TJT9)
+![Banner Image](https://images.app.goo.gl/eVCSEFRMGFnJoarD7)
 
 ### Thushan De Silva
 Undergraduate @SLIIT
