@@ -1,4 +1,4 @@
-<div style="background-image: url('https://images.app.goo.gl/eVCSEFRMGFnJoarD7'); background-size: cover; background-position: center; height: 150px; display: flex; justify-content: center; align-items: center; text-align: center; color: white; font-family: Arial, sans-serif; border: 5px solid #ffffff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); border-radius: 8px;">
+<div style="background-image: url('[https://images.app.goo.gl/eVCSEFRMGFnJoarD7](https://img.freepik.com/free-vector/digital-futuristic-circuit-diagram-technology-banner-design_1017-25622.jpg)'); background-size: cover; background-position: center; height: 150px; display: flex; justify-content: center; align-items: center; text-align: center; color: white; font-family: Arial, sans-serif; border: 5px solid #ffffff; box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); border-radius: 8px;">
   <div style="background-color: rgba(0, 0, 0, 0.5); padding: 10px; border-radius: 8px; display: flex; align-items: center;">
     <h1 style="font-size: 1.5em; margin-right: 20px;">Thushan De Silva</h1>
     <p style="font-size: 1em; margin-right: 20px;">Undergraduate @SLIIT</p>
