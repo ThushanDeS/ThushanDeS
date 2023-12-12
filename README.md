@@ -1,4 +1,5 @@
-![ezgif com-video-to-gif](https://github.com/ThushanDeS/ThushanDeS/assets/153522711/695b834a-0c87-490f-96bd-4912177d7c46)
+<img src="https://github.com/ThushanDeS/ThushanDeS/blob/main/assets/153522711/635106f9-c3b4-4281-804e-d85ba7b93d55" alt="Local Image" width="400">
+
 
 <h1 align="center">Hi 👋, I'm Thushan De Silva</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
