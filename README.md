@@ -1,5 +1,5 @@
-<img src="![ezgif com-crop](https://github.com/ThushanDeS/ThushanDeS/assets/153522711/635106f9-c3b4-4281-804e-d85ba7b93d55)
-" alt="Local Image">
+<img src="https://github.com/ThushanDeS/ThushanDeS/assets/153522711/635106f9-c3b4-4281-804e-d85ba7b93d55" alt="Local Image">
+
 <h1 align="center">Hi 👋, I'm Thushan De Silva</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
