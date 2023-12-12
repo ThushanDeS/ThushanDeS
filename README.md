@@ -1,4 +1,4 @@
-<img src="https://github.com/ThushanDeS/ThushanDeS/blob/main/assets/153522711/635106f9-c3b4-4281-804e-d85ba7b93d55" alt="Local Image" width="400">
+<img src="https://github.com/ThushanDeS/ThushanDeS/blob/main/assets/153522711/635106f9-c3b4-4281-804e-d85ba7b93d55" alt="Local Image" width="1000">
 
 
 <h1 align="center">Hi 👋, I'm Thushan De Silva</h1>
