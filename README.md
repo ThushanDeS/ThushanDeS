@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.pinimg.com/originals/b8/71/76/b8717641f46cdfdced2c86e984f07c11.gif)](https://thushanDeS.io)
+[![MasterHead](https://www.canva.com/design/DAF2vH9zmOA/SZ--3HyspF2eRdoaDI-Dfw/edit?utm_content=DAF2vH9zmOA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://thushanDeS.io)
 <h1 align="center">Hi 👋, I'm Thushan De Silva</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
